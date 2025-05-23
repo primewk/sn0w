@@ -1,4 +1,4 @@
-# Sn0w
+# $now
 This client was made by MEDMEX for 2beta2t.net and has pretty much all the features a client from that era would need, its better then other clients "from that era" coz Sn0w was made like a few years ago.
 
 ![UI](https://github.com/user-attachments/assets/03c8dfba-ed9b-4ae0-82df-827830db6754)
